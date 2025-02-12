@@ -1,0 +1,8 @@
+#this is the Git ignore file for the project
+# remember to include the  .venv folder in the .gitignore file
+# this is the virtual environment folder that will be created when you run the command python -m venv .venv
+.venv/
+*.pyc
+*.pyo
+*.pyd
+__pycache__
